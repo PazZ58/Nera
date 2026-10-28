@@ -1,12 +1,12 @@
 {
- "v": 20,
- "notes": "İlk çevrimiçi güncelleme: XM bağlantısı paneli, ortalanmış Ajan Ofisi, sade açıklamalar.",
+ "v": 21,
+ "notes": "Temaya uygun canlı bildirim paneli (sağ alt, Ayarlar'dan ayarlanır), telefon bildirim panelinde güncelleme ve arkadaş bildirimleri, ayrı grup ve özel sohbet, titremeyen sohbet, arkadaş istatistik kartı, kalıcı profil, backtest kuyruğu düzeltmesi.",
  "pc": {
-  "url": "nera_pc_v20.zip",
-  "sha256": "4ec54dce8ef1b0b56aebca53907fbe108848b244f4725ad7587191910ee159de"
+  "url": "nera_pc_v21.zip",
+  "sha256": "9a0cbac795a828787306694b6279928a27b3b28c9fba740a7d8295cdb45f80c4"
  },
  "mobil": {
-  "url": "nera_mobil_v20.zip",
-  "sha256": "992bff8a8dcdea99f2696ea8bd5d25557c99c5f6dc4f7d0f9d060f0e0139dc2a"
+  "url": "nera_mobil_v21.zip",
+  "sha256": "86b5daf35fcf735e8b771c38793d05d1fb8c2b201e35410fc8a439a3ded400aa"
  }
 }

@@ -1,0 +1,12 @@
+{
+ "v": 20,
+ "notes": "İlk çevrimiçi güncelleme: XM bağlantısı paneli, ortalanmış Ajan Ofisi, sade açıklamalar.",
+ "pc": {
+  "url": "nera_pc_v20.zip",
+  "sha256": "4ec54dce8ef1b0b56aebca53907fbe108848b244f4725ad7587191910ee159de"
+ },
+ "mobil": {
+  "url": "nera_mobil_v20.zip",
+  "sha256": "992bff8a8dcdea99f2696ea8bd5d25557c99c5f6dc4f7d0f9d060f0e0139dc2a"
+ }
+}

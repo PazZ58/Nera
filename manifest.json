@@ -1,12 +1,12 @@
 {
- "v": 23,
- "notes": "XM botu ve yeni sohbet: XM botu: sinyale göre işlem açar, merdiven taktiğiyle stopu basamak basamak yukarı çeker ve kârı kilitler (önce DEMO hesapta dene); Telefondan bot kumandası: eşleştirme koduyla durum, duraklat, devam, tümünü kapat; Güncelleme sonrası yenilikler listesi ve Ayarlar'da güncelleme geçmişi",
+ "v": 24,
+ "notes": "XM Botu ekranı: Yeni XM Botu ekranı (yalnız PC): dönen merdiven sarmalı beyin, açık işlemler sarmalda basamak basamak tırmanır; Canlı işlem listesi: anlık kâr/zarar, merdiven basamakları, kilitli kâr göstergesi; Bugün, açık K/Z, kazanma oranı ve işlem sayısı kartları + kapanan işlemler eğrisi",
  "pc": {
-  "url": "nera_pc_v23.zip",
-  "sha256": "25bab01ecd91aa5bf85153de95461759cc6d5e1e59837573f8a77c9b80b3814e"
+  "url": "nera_pc_v24.zip",
+  "sha256": "e02d95fc909e4e9308cae7d89e57f93139e7655b46a369bb5fb1139eed169a80"
  },
  "mobil": {
-  "url": "nera_mobil_v23.zip",
-  "sha256": "4eac51d2fa0f29c91208adb9d27f9d8ca1a429c9b129c97097516a5fd7c4c358"
+  "url": "nera_mobil_v24.zip",
+  "sha256": "554fd7885d71d491b1a3a3c66f7d797a4deec2c6eb91ec3794883b50eca7a85b"
  }
 }

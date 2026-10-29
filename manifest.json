@@ -1,12 +1,12 @@
 {
- "v": 24,
- "notes": "XM Botu ekranı: Yeni XM Botu ekranı (yalnız PC): dönen merdiven sarmalı beyin, açık işlemler sarmalda basamak basamak tırmanır; Canlı işlem listesi: anlık kâr/zarar, merdiven basamakları, kilitli kâr göstergesi; Bugün, açık K/Z, kazanma oranı ve işlem sayısı kartları + kapanan işlemler eğrisi",
+ "v": 25,
+ "notes": "Elle işlem, dolar hedefi, Sinyal Beyni: XM Botu ekranında elle LONG / SHORT: sembol, risk ve stop seç; merdiven bu işlemi de yönetir; Dolar hedefi: merdiven hedefe (ör. 50 $) kadar çıkar, hedefte kâr alınır; yön sürüyorsa yeni işlem açılır (tur sınırı ayarlanabilir); Bot artık Sinyal Beyni kararlarıyla da işlem açıyor",
  "pc": {
-  "url": "nera_pc_v24.zip",
-  "sha256": "e02d95fc909e4e9308cae7d89e57f93139e7655b46a369bb5fb1139eed169a80"
+  "url": "nera_pc_v25.zip",
+  "sha256": "52b46d4fda5c68b121744ad3a060a8a6a4a6745a6fe4b82139a4b2cfec7e5f2a"
  },
  "mobil": {
-  "url": "nera_mobil_v24.zip",
-  "sha256": "554fd7885d71d491b1a3a3c66f7d797a4deec2c6eb91ec3794883b50eca7a85b"
+  "url": "nera_mobil_v25.zip",
+  "sha256": "10c982563b397e2ba12c21eef95b92255e0a02a2bba7d37fcbf791109b809a80"
  }
 }

@@ -1,12 +1,12 @@
 {
- "v": 22,
- "notes": "Altın, gümüş ve EUR/USD kapalıyken grafik artık hareket etmez: hafta sonu ve her gece 1 saatlik ara (New York 17:00-18:00) kapalı sayılır.",
+ "v": 23,
+ "notes": "XM botu ve yeni sohbet: XM botu: sinyale göre işlem açar, merdiven taktiğiyle stopu basamak basamak yukarı çeker ve kârı kilitler (önce DEMO hesapta dene); Telefondan bot kumandası: eşleştirme koduyla durum, duraklat, devam, tümünü kapat; Güncelleme sonrası yenilikler listesi ve Ayarlar'da güncelleme geçmişi",
  "pc": {
-  "url": "nera_pc_v22.zip",
-  "sha256": "f462b368d5d8421ec256412e2cf750c041b145e7b301c4d7a664a548436e710a"
+  "url": "nera_pc_v23.zip",
+  "sha256": "25bab01ecd91aa5bf85153de95461759cc6d5e1e59837573f8a77c9b80b3814e"
  },
  "mobil": {
-  "url": "nera_mobil_v22.zip",
-  "sha256": "80134ab2f3fa610b7de233fb38e0213fdc796b9e3aeec9350ddaf80539251ca0"
+  "url": "nera_mobil_v23.zip",
+  "sha256": "4eac51d2fa0f29c91208adb9d27f9d8ca1a429c9b129c97097516a5fd7c4c358"
  }
 }

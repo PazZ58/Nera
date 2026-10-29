@@ -1,12 +1,12 @@
 {
- "v": 21,
- "notes": "Temaya uygun canlı bildirim paneli (sağ alt, Ayarlar'dan ayarlanır), telefon bildirim panelinde güncelleme ve arkadaş bildirimleri, ayrı grup ve özel sohbet, titremeyen sohbet, arkadaş istatistik kartı, kalıcı profil, backtest kuyruğu düzeltmesi.",
+ "v": 22,
+ "notes": "Altın, gümüş ve EUR/USD kapalıyken grafik artık hareket etmez: hafta sonu ve her gece 1 saatlik ara (New York 17:00-18:00) kapalı sayılır.",
  "pc": {
-  "url": "nera_pc_v21.zip",
-  "sha256": "9a0cbac795a828787306694b6279928a27b3b28c9fba740a7d8295cdb45f80c4"
+  "url": "nera_pc_v22.zip",
+  "sha256": "f462b368d5d8421ec256412e2cf750c041b145e7b301c4d7a664a548436e710a"
  },
  "mobil": {
-  "url": "nera_mobil_v21.zip",
-  "sha256": "86b5daf35fcf735e8b771c38793d05d1fb8c2b201e35410fc8a439a3ded400aa"
+  "url": "nera_mobil_v22.zip",
+  "sha256": "80134ab2f3fa610b7de233fb38e0213fdc796b9e3aeec9350ddaf80539251ca0"
  }
 }

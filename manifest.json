@@ -1,12 +1,12 @@
 {
- "v": 25,
- "notes": "Elle işlem, dolar hedefi, Sinyal Beyni: XM Botu ekranında elle LONG / SHORT: sembol, risk ve stop seç; merdiven bu işlemi de yönetir; Dolar hedefi: merdiven hedefe (ör. 50 $) kadar çıkar, hedefte kâr alınır; yön sürüyorsa yeni işlem açılır (tur sınırı ayarlanabilir); Bot artık Sinyal Beyni kararlarıyla da işlem açıyor",
+ "v": 26,
+ "notes": "Bot spread düzeltmesi: Merdiven adımı ve stop, spread'e göre otomatik güvenli seviyeye büyütülür (ör. BTC'de adım 5 $ → ~115 $); akışa yazılır",
  "pc": {
-  "url": "nera_pc_v25.zip",
-  "sha256": "52b46d4fda5c68b121744ad3a060a8a6a4a6745a6fe4b82139a4b2cfec7e5f2a"
+  "url": "nera_pc_v26.zip",
+  "sha256": "c4f3069b0a93c5274b9e7f72c84ed0779636d6e916644ecdba21c2850131c66e"
  },
  "mobil": {
-  "url": "nera_mobil_v25.zip",
-  "sha256": "10c982563b397e2ba12c21eef95b92255e0a02a2bba7d37fcbf791109b809a80"
+  "url": "nera_mobil_v26.zip",
+  "sha256": "dd359e18cd1edbde0fc9ce8ac4d9807e9fe538b0ed91ae221688afa9961ba262"
  }
 }

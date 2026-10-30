@@ -1,12 +1,12 @@
 {
- "v": 26,
- "notes": "Bot spread düzeltmesi: Merdiven adımı ve stop, spread'e göre otomatik güvenli seviyeye büyütülür (ör. BTC'de adım 5 $ → ~115 $); akışa yazılır",
+ "v": 27,
+ "notes": "XM Nera: XM Botu artık XM Nera: Genel menüde, yeniden tasarlandı; Canlı grafik: sol üstte Altın/Gümüş/EUR/BTC/ETH geçişi, zaman dilimi, LONG/SHORT; giriş, stop, sonraki basamaklar ve hedef grafikte çizgi olarak; 3B DNA beyni: sürükle döndür, tekerlekle yakınlaş, küreye tıkla işlemi seç, basamağa tıkla dalga",
  "pc": {
-  "url": "nera_pc_v26.zip",
-  "sha256": "c4f3069b0a93c5274b9e7f72c84ed0779636d6e916644ecdba21c2850131c66e"
+  "url": "nera_pc_v27.zip",
+  "sha256": "567c40a6d6086860ca984530bcbc8eeda1b8624e57266dea6457bcff3737f64a"
  },
  "mobil": {
-  "url": "nera_mobil_v26.zip",
-  "sha256": "dd359e18cd1edbde0fc9ce8ac4d9807e9fe538b0ed91ae221688afa9961ba262"
+  "url": "nera_mobil_v27.zip",
+  "sha256": "49f3e1300edd12d2043fa33fb1fa8d1de5e97337996c8e4ba687819198a7a9b4"
  }
 }

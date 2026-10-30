@@ -1,12 +1,12 @@
 {
- "v": 27,
- "notes": "XM Nera: XM Botu artık XM Nera: Genel menüde, yeniden tasarlandı; Canlı grafik: sol üstte Altın/Gümüş/EUR/BTC/ETH geçişi, zaman dilimi, LONG/SHORT; giriş, stop, sonraki basamaklar ve hedef grafikte çizgi olarak; 3B DNA beyni: sürükle döndür, tekerlekle yakınlaş, küreye tıkla işlemi seç, basamağa tıkla dalga",
+ "v": 28,
+ "notes": "Bilardo ve XM Nera grafik kontrolleri: Arkadaşlar › Bilardo: 8 top, 2–4 oyuncu, A/B takımı, izleyiciler, lobi + Hazır sistemi, antrenman modu; Temaya göre ıstakalar (Klasik, Neon, Cadı, Matrix, Okyanus, Orman, Gün batımı, Altın); XM Nera: stop ve hedef çizgilerini grafikte sürükleyerek değiştir",
  "pc": {
-  "url": "nera_pc_v27.zip",
-  "sha256": "567c40a6d6086860ca984530bcbc8eeda1b8624e57266dea6457bcff3737f64a"
+  "url": "nera_pc_v28.zip",
+  "sha256": "78a7eedc03437294ae087a6c5ebafc06a6dc07f64766ee40fc68717d90083091"
  },
  "mobil": {
-  "url": "nera_mobil_v27.zip",
-  "sha256": "49f3e1300edd12d2043fa33fb1fa8d1de5e97337996c8e4ba687819198a7a9b4"
+  "url": "nera_mobil_v28.zip",
+  "sha256": "f16e238acf87805c2acb56395d5b08e0cce078acb2d6c43be45f6504b3e3b208"
  }
 }

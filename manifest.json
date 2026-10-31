@@ -1,12 +1,12 @@
 {
- "v": 31,
- "notes": "Hesap sunucusu bağlandı: Nera hesap sunucusu hazır: Arkadaşlar ekranından kullanıcı adı + şifreyle kayıt ol; telefonda aynı bilgilerle giriş yap",
+ "v": 32,
+ "notes": "Temiz başlangıç: ",
  "pc": {
-  "url": "nera_pc_v31.zip",
-  "sha256": "0b8df41cb764b9f671121cacc57732b6c0ad826f833340058b8095cd833526d2"
+  "url": "nera_pc_v32.zip",
+  "sha256": "fa8758597c7bef608b879b909fdcd51da6c5dd4c9c4e4ad4ffe06372946c9f37"
  },
  "mobil": {
-  "url": "nera_mobil_v31.zip",
-  "sha256": "2f299cceee35b7bbc14b8eed52d9c5c1eaf4437c3657197f5f4ec7df3f75808a"
+  "url": "nera_mobil_v32.zip",
+  "sha256": "d536691fdf4e29339fa458f80e017c1d1d823fad328c684061d2e4f8cc171124"
  }
 }

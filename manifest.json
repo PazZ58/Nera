@@ -1,12 +1,12 @@
 {
- "v": 33,
- "notes": "Arkadaşlar artık yalnız hesapla: Sohbet, kişi listesi ve bilardo yalnız hesaba girince açılır",
+ "v": 34,
+ "notes": "Bilardo: gerçekçi fizik ve animasyonlar: Toplar daha gerçekçi yuvarlanır (numara ve şerit hareket yönünde döner), vuruş daha güçlü, bantlar daha canlı; Deliğe düşen top cebe kayarak düşer; her temaya özel parçacık efekti (yarasa, neon kıvılcım, matrix harfleri, kabarcık, yaprak, kor, yıldız); FAUL: kırmızı sarsılan uyarı ve nedeni",
  "pc": {
-  "url": "nera_pc_v33.zip",
-  "sha256": "59e28b4b016cac7ccca50118b6af01417e939cbed1b58cc0077ca3e300ad58af"
+  "url": "nera_pc_v34.zip",
+  "sha256": "a2c313835e6adf7f88e2d1894a63a61d8738dec19930419815f222ed9ebfc886"
  },
  "mobil": {
-  "url": "nera_mobil_v33.zip",
-  "sha256": "ec0514b763a36c93b8d784e6a2455c03bb4e60464c1fcff16895d1a53bff227a"
+  "url": "nera_mobil_v34.zip",
+  "sha256": "9cc2cb1e0781f39d5a2472e20125dd5c0442e9c3b320bf2857080c0574eff8a2"
  }
 }

@@ -1,12 +1,12 @@
 {
- "v": 35,
- "notes": "Gerçekçi bilardo masası: Gerçek 3B toplar: ışık ve parlamayla çizilir, yuvarlanırken numara ve şerit gerçekten döner; top durunca numarası yukarı bakacak şekilde döner; Temaya özel gerçekçi masalar: ahşap/karbon/neon çerçeve, kauçuk bantlar, metal/deri kaplı derin cepler, kumaş dokusu, lamba ışığı, sedef elmaslar; Çarpışma kıvılcımları, beyaz top izi, sert açılışta masa sarsıntısı",
+ "v": 36,
+ "notes": "Likidite: para nerede?: Piyasa grafiğinde yeni Likidite göstergesi (varsayılan açık; Göstergeler › Order flow haritaları); Emir defteri duvarları: yukarıda bekleyen satış (kırmızı), aşağıda bekleyen alış (yeşil) çubukları; Tahmini tasfiye kümeleri: shortların yukarıda, longların aşağıda tasfiye olacağı seviyeler",
  "pc": {
-  "url": "nera_pc_v35.zip",
-  "sha256": "d250c09ba0c0d59a61609a7989ee5e19d77a28f763f36b0e14850a82a4334cab"
+  "url": "nera_pc_v36.zip",
+  "sha256": "66fed2d87bb865989e4c70a2eb700cc35592b638740e9ffee781e54a6b85b5ca"
  },
  "mobil": {
-  "url": "nera_mobil_v35.zip",
-  "sha256": "2c69e0056a5c30cfb0d18ba37056b90efb0ee55e891f6e1cb4a0018e9496570c"
+  "url": "nera_mobil_v36.zip",
+  "sha256": "71b51a604814bbade1584d6d9fbd8847691e88201de4498aff30f653801064fc"
  }
 }

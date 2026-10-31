@@ -1,12 +1,12 @@
 {
- "v": 30,
- "notes": "Hesaplar, telefonda XM Nera, yeni bilardo: Kullanıcı adı + şifreyle hesap (Firebase): profil sunucuda kalıcı, PC ve telefonda aynı hesap; kurulum Ayarlar › Hesap sunucusu; Hesapla: sohbet, bilardo ve XM Nera köprüsü günlük mesaj kotasına takılmaz; özel mesajları yalnız alıcı okur; Telefonda XM Nera (Daha › XM Nera): PC'deki işlemleri grafik ve DNA ile canlı izle, LONG/SHORT aç, kapat, stop taşı; kod gerekmez",
+ "v": 31,
+ "notes": "Hesap sunucusu bağlandı: Nera hesap sunucusu hazır: Arkadaşlar ekranından kullanıcı adı + şifreyle kayıt ol; telefonda aynı bilgilerle giriş yap",
  "pc": {
-  "url": "nera_pc_v30.zip",
-  "sha256": "3aa252e70bf4cb975efa2218cd53b1480c692b534a8e897df8490581ccf209b9"
+  "url": "nera_pc_v31.zip",
+  "sha256": "0b8df41cb764b9f671121cacc57732b6c0ad826f833340058b8095cd833526d2"
  },
  "mobil": {
-  "url": "nera_mobil_v30.zip",
-  "sha256": "dbaca6f15cd49a52bfe0d1aa6e264f80f508477ca337b9e42f3ed030c339411c"
+  "url": "nera_mobil_v31.zip",
+  "sha256": "2f299cceee35b7bbc14b8eed52d9c5c1eaf4437c3657197f5f4ec7df3f75808a"
  }
 }

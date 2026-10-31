@@ -1,12 +1,12 @@
 {
- "v": 36,
- "notes": "Likidite: para nerede?: Piyasa grafiğinde yeni Likidite göstergesi (varsayılan açık; Göstergeler › Order flow haritaları); Emir defteri duvarları: yukarıda bekleyen satış (kırmızı), aşağıda bekleyen alış (yeşil) çubukları; Tahmini tasfiye kümeleri: shortların yukarıda, longların aşağıda tasfiye olacağı seviyeler",
+ "v": 37,
+ "notes": "Gerçek order flow",
  "pc": {
-  "url": "nera_pc_v36.zip",
-  "sha256": "66fed2d87bb865989e4c70a2eb700cc35592b638740e9ffee781e54a6b85b5ca"
+  "url": "nera_pc_v37.zip",
+  "sha256": "76d9d2c0be04c8d913396c49608d14e22e973742937365bb4966f31f698fbae2"
  },
  "mobil": {
-  "url": "nera_mobil_v36.zip",
-  "sha256": "71b51a604814bbade1584d6d9fbd8847691e88201de4498aff30f653801064fc"
+  "url": "nera_mobil_v37.zip",
+  "sha256": "e3bbc316825495b49317b89e4b9796d82c1b97d777d045ac8f9c4d00fd53c669"
  }
 }

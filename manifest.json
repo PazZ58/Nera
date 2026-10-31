@@ -1,12 +1,12 @@
 {
- "v": 37,
- "notes": "Gerçek order flow",
+ "v": 38,
+ "notes": "Para nerede? duzeltmesi",
  "pc": {
-  "url": "nera_pc_v37.zip",
-  "sha256": "76d9d2c0be04c8d913396c49608d14e22e973742937365bb4966f31f698fbae2"
+  "url": "nera_pc_v38.zip",
+  "sha256": "4616cc9e0960f512ecc0adbd37bf77da5e8ff3d95ba1e78b67b8be6f09d345bb"
  },
  "mobil": {
-  "url": "nera_mobil_v37.zip",
-  "sha256": "e3bbc316825495b49317b89e4b9796d82c1b97d777d045ac8f9c4d00fd53c669"
+  "url": "nera_mobil_v38.zip",
+  "sha256": "d788e35027d4eb12b0922646541ef76330d08462caf58cd441c2e84c82eb8cef"
  }
 }

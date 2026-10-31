@@ -1,12 +1,12 @@
 {
- "v": 29,
- "notes": "Kota mesajı: ",
+ "v": 30,
+ "notes": "Hesaplar, telefonda XM Nera, yeni bilardo: Kullanıcı adı + şifreyle hesap (Firebase): profil sunucuda kalıcı, PC ve telefonda aynı hesap; kurulum Ayarlar › Hesap sunucusu; Hesapla: sohbet, bilardo ve XM Nera köprüsü günlük mesaj kotasına takılmaz; özel mesajları yalnız alıcı okur; Telefonda XM Nera (Daha › XM Nera): PC'deki işlemleri grafik ve DNA ile canlı izle, LONG/SHORT aç, kapat, stop taşı; kod gerekmez",
  "pc": {
-  "url": "nera_pc_v29.zip",
-  "sha256": "94b94fcf02fdcbaf044819e6eafc56405298680a56cad99e16cee92c655ac96d"
+  "url": "nera_pc_v30.zip",
+  "sha256": "3aa252e70bf4cb975efa2218cd53b1480c692b534a8e897df8490581ccf209b9"
  },
  "mobil": {
-  "url": "nera_mobil_v29.zip",
-  "sha256": "09f1b1e3d4dcbb618079d281bda664faf28935d8efabad247af152adc2de1fc5"
+  "url": "nera_mobil_v30.zip",
+  "sha256": "dbaca6f15cd49a52bfe0d1aa6e264f80f508477ca337b9e42f3ed030c339411c"
  }
 }

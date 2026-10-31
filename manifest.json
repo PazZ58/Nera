@@ -1,12 +1,12 @@
 {
- "v": 32,
- "notes": "Temiz başlangıç: ",
+ "v": 33,
+ "notes": "Arkadaşlar artık yalnız hesapla: Sohbet, kişi listesi ve bilardo yalnız hesaba girince açılır",
  "pc": {
-  "url": "nera_pc_v32.zip",
-  "sha256": "fa8758597c7bef608b879b909fdcd51da6c5dd4c9c4e4ad4ffe06372946c9f37"
+  "url": "nera_pc_v33.zip",
+  "sha256": "59e28b4b016cac7ccca50118b6af01417e939cbed1b58cc0077ca3e300ad58af"
  },
  "mobil": {
-  "url": "nera_mobil_v32.zip",
-  "sha256": "d536691fdf4e29339fa458f80e017c1d1d823fad328c684061d2e4f8cc171124"
+  "url": "nera_mobil_v33.zip",
+  "sha256": "ec0514b763a36c93b8d784e6a2455c03bb4e60464c1fcff16895d1a53bff227a"
  }
 }

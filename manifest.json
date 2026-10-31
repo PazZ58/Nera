@@ -1,12 +1,12 @@
 {
- "v": 38,
- "notes": "Para nerede? duzeltmesi",
+ "v": 39,
+ "notes": "Likidite ayarlari",
  "pc": {
-  "url": "nera_pc_v38.zip",
-  "sha256": "4616cc9e0960f512ecc0adbd37bf77da5e8ff3d95ba1e78b67b8be6f09d345bb"
+  "url": "nera_pc_v39.zip",
+  "sha256": "2d388654d27cb82bf946f79e3112ec79b566ec5e34282a3c407c2bba1e44e0b3"
  },
  "mobil": {
-  "url": "nera_mobil_v38.zip",
-  "sha256": "d788e35027d4eb12b0922646541ef76330d08462caf58cd441c2e84c82eb8cef"
+  "url": "nera_mobil_v39.zip",
+  "sha256": "88001141106fb44292f6539f3a355b4205ad7ba8911cc7b3ab35c2bec57d5cb8"
  }
 }

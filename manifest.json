@@ -1,12 +1,12 @@
 {
- "v": 34,
- "notes": "Bilardo: gerçekçi fizik ve animasyonlar: Toplar daha gerçekçi yuvarlanır (numara ve şerit hareket yönünde döner), vuruş daha güçlü, bantlar daha canlı; Deliğe düşen top cebe kayarak düşer; her temaya özel parçacık efekti (yarasa, neon kıvılcım, matrix harfleri, kabarcık, yaprak, kor, yıldız); FAUL: kırmızı sarsılan uyarı ve nedeni",
+ "v": 35,
+ "notes": "Gerçekçi bilardo masası: Gerçek 3B toplar: ışık ve parlamayla çizilir, yuvarlanırken numara ve şerit gerçekten döner; top durunca numarası yukarı bakacak şekilde döner; Temaya özel gerçekçi masalar: ahşap/karbon/neon çerçeve, kauçuk bantlar, metal/deri kaplı derin cepler, kumaş dokusu, lamba ışığı, sedef elmaslar; Çarpışma kıvılcımları, beyaz top izi, sert açılışta masa sarsıntısı",
  "pc": {
-  "url": "nera_pc_v34.zip",
-  "sha256": "a2c313835e6adf7f88e2d1894a63a61d8738dec19930419815f222ed9ebfc886"
+  "url": "nera_pc_v35.zip",
+  "sha256": "d250c09ba0c0d59a61609a7989ee5e19d77a28f763f36b0e14850a82a4334cab"
  },
  "mobil": {
-  "url": "nera_mobil_v34.zip",
-  "sha256": "9cc2cb1e0781f39d5a2472e20125dd5c0442e9c3b320bf2857080c0574eff8a2"
+  "url": "nera_mobil_v35.zip",
+  "sha256": "2c69e0056a5c30cfb0d18ba37056b90efb0ee55e891f6e1cb4a0018e9496570c"
  }
 }

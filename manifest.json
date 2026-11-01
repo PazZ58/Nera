@@ -1,12 +1,12 @@
 {
- "v": 39,
- "notes": "Likidite ayarlari",
+ "v": 40,
+ "notes": "Parite ayarlari",
  "pc": {
-  "url": "nera_pc_v39.zip",
-  "sha256": "2d388654d27cb82bf946f79e3112ec79b566ec5e34282a3c407c2bba1e44e0b3"
+  "url": "nera_pc_v40.zip",
+  "sha256": "7a758092ab2ddb7658d3fe9559ddc158716a1ce2394ab64c9164b49d02044773"
  },
  "mobil": {
-  "url": "nera_mobil_v39.zip",
-  "sha256": "88001141106fb44292f6539f3a355b4205ad7ba8911cc7b3ab35c2bec57d5cb8"
+  "url": "nera_mobil_v40.zip",
+  "sha256": "913e3596094e7560cf928fc5c499d8b729c90ec3a35ae555d2f64e2ab2ac6cd6"
  }
 }

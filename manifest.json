@@ -1,12 +1,12 @@
 {
- "v": 41,
- "notes": "Merdiven testi ve Koruma",
+ "v": 42,
+ "notes": "Lab merdivenle ariyor",
  "pc": {
-  "url": "nera_pc_v41.zip",
-  "sha256": "36f8e207384c0865db2c29141a7d838dc01ce7b5910b2571e096fe136e261a73"
+  "url": "nera_pc_v42.zip",
+  "sha256": "a535786ad83d1d387d2f2a6a2a7a152233dafe8b60ce17fe5ec78b751bc6cd72"
  },
  "mobil": {
-  "url": "nera_mobil_v41.zip",
-  "sha256": "6e60d4f9b74bfa9ad8fd82875c38d09b41a7bd0fb8654a2221759303ecf9723e"
+  "url": "nera_mobil_v42.zip",
+  "sha256": "5c686334f4181a80f732dd1f2b84530f87239f5a27836513923de252fe1744eb"
  }
 }

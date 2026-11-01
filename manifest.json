@@ -1,12 +1,12 @@
 {
- "v": 40,
- "notes": "Parite ayarlari",
+ "v": 41,
+ "notes": "Merdiven testi ve Koruma",
  "pc": {
-  "url": "nera_pc_v40.zip",
-  "sha256": "7a758092ab2ddb7658d3fe9559ddc158716a1ce2394ab64c9164b49d02044773"
+  "url": "nera_pc_v41.zip",
+  "sha256": "36f8e207384c0865db2c29141a7d838dc01ce7b5910b2571e096fe136e261a73"
  },
  "mobil": {
-  "url": "nera_mobil_v40.zip",
-  "sha256": "913e3596094e7560cf928fc5c499d8b729c90ec3a35ae555d2f64e2ab2ac6cd6"
+  "url": "nera_mobil_v41.zip",
+  "sha256": "6e60d4f9b74bfa9ad8fd82875c38d09b41a7bd0fb8654a2221759303ecf9723e"
  }
 }

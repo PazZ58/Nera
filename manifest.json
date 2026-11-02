@@ -1,12 +1,12 @@
 {
- "v": 45,
- "notes": "Yeni yapay zeka saglayicilari",
+ "v": 46,
+ "notes": "Sinyal motoru yeniden ayarlandi",
  "pc": {
-  "url": "nera_pc_v45.zip",
-  "sha256": "267edb3d81c7f8c1bb8a2c51c1c56f785c37e477a85ffb4c7ef84b66685b07f0"
+  "url": "nera_pc_v46.zip",
+  "sha256": "613be5ca33db44e0b0a817d48d38605f00c2958f9ae2ab6c8dd56289174377bb"
  },
  "mobil": {
-  "url": "nera_mobil_v45.zip",
-  "sha256": "dd4de1a9394790d90b9785aef197c3f650707167268ce05ff3bf535f10d7cce8"
+  "url": "nera_mobil_v46.zip",
+  "sha256": "c2f62e89cf340ab6bdf1d12327b417cc12050286df22f06264a32a953a3d03ab"
  }
 }

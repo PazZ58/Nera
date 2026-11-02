@@ -1,12 +1,12 @@
 {
- "v": 44,
- "notes": "Genis ekonomik takvim",
+ "v": 45,
+ "notes": "Yeni yapay zeka saglayicilari",
  "pc": {
-  "url": "nera_pc_v44.zip",
-  "sha256": "1ebb9af6fff4872496235b26039874a8e900fbd3d8afd520bb73d471eba31064"
+  "url": "nera_pc_v45.zip",
+  "sha256": "267edb3d81c7f8c1bb8a2c51c1c56f785c37e477a85ffb4c7ef84b66685b07f0"
  },
  "mobil": {
-  "url": "nera_mobil_v44.zip",
-  "sha256": "8ddddf7a41fac81a74f5edf610787fc72e528f6d4a9de189bc4bcd1613d050b0"
+  "url": "nera_mobil_v45.zip",
+  "sha256": "dd4de1a9394790d90b9785aef197c3f650707167268ce05ff3bf535f10d7cce8"
  }
 }

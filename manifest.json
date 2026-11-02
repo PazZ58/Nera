@@ -1,12 +1,12 @@
 {
- "v": 43,
- "notes": "Koruma isine yariyor mu",
+ "v": 44,
+ "notes": "Genis ekonomik takvim",
  "pc": {
-  "url": "nera_pc_v43.zip",
-  "sha256": "2bdee9e6117bf0bdf44c96256df8c135fb2a96733c553699ecfb17109115f59e"
+  "url": "nera_pc_v44.zip",
+  "sha256": "1ebb9af6fff4872496235b26039874a8e900fbd3d8afd520bb73d471eba31064"
  },
  "mobil": {
-  "url": "nera_mobil_v43.zip",
-  "sha256": "47a3fb14227e717d0a1631e51a180a1167dd2223584517c53dd0b1ead02f0932"
+  "url": "nera_mobil_v44.zip",
+  "sha256": "8ddddf7a41fac81a74f5edf610787fc72e528f6d4a9de189bc4bcd1613d050b0"
  }
 }

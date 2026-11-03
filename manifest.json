@@ -1,12 +1,12 @@
 {
- "v": 49,
- "notes": "Telefonda Kanit Lab duzeltmesi",
+ "v": 50,
+ "notes": "Onceki surume donuldu",
  "pc": {
-  "url": "nera_pc_v49.zip",
-  "sha256": "e30167cab2a5c8d72d653364a995a7c612c02a1dc49f0d0310485c206394f020"
+  "url": "nera_pc_v50.zip",
+  "sha256": "703d1d8b4f271253f342f7210cb631a7bdd4b771720a02fa0c726eb391c6ff3c"
  },
  "mobil": {
-  "url": "nera_mobil_v49.zip",
-  "sha256": "91a5db673a5045d642cc9f892383cd5848899ace263b5906e49f32fd5bd5369b"
+  "url": "nera_mobil_v50.zip",
+  "sha256": "8baba17b41eb77fb05b0fb00c2c14aa554354d62eb128953b4de50afaf44278d"
  }
 }

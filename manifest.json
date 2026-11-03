@@ -1,12 +1,12 @@
 {
- "v": 46,
- "notes": "Sinyal motoru yeniden ayarlandi",
+ "v": 47,
+ "notes": "Sinyal karti ve konsey duzeltmeleri",
  "pc": {
-  "url": "nera_pc_v46.zip",
-  "sha256": "613be5ca33db44e0b0a817d48d38605f00c2958f9ae2ab6c8dd56289174377bb"
+  "url": "nera_pc_v47.zip",
+  "sha256": "d0f5ff1eb7cb3058f68feaef36af8d323cce331052d5f09778ddfa3e7d20e1f8"
  },
  "mobil": {
-  "url": "nera_mobil_v46.zip",
-  "sha256": "c2f62e89cf340ab6bdf1d12327b417cc12050286df22f06264a32a953a3d03ab"
+  "url": "nera_mobil_v47.zip",
+  "sha256": "75fbda1830c92493865a7d30a7007c6d21a5a2ac77be359b505d87ae22e3dd22"
  }
 }

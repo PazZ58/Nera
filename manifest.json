@@ -1,12 +1,12 @@
 {
- "v": 48,
- "notes": "Kanit Lab: karne, canli beyin ve sinyal bulutu",
+ "v": 49,
+ "notes": "Telefonda Kanit Lab duzeltmesi",
  "pc": {
-  "url": "nera_pc_v48.zip",
-  "sha256": "6904b9b42c8c6a32a166bfc9cace2159bd399b5921efca21fb20e6e0ab9daac3"
+  "url": "nera_pc_v49.zip",
+  "sha256": "e30167cab2a5c8d72d653364a995a7c612c02a1dc49f0d0310485c206394f020"
  },
  "mobil": {
-  "url": "nera_mobil_v48.zip",
-  "sha256": "c402dcbace7ccc4950f2c88631d07a467961dde5942363cf2cb46e0b87598ddf"
+  "url": "nera_mobil_v49.zip",
+  "sha256": "91a5db673a5045d642cc9f892383cd5848899ace263b5906e49f32fd5bd5369b"
  }
 }

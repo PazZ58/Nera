@@ -1,12 +1,12 @@
 {
- "v": 51,
- "notes": "Ekip Beyni",
+ "v": 52,
+ "notes": "Martingale / Grid (demo)",
  "pc": {
-  "url": "nera_pc_v51.zip",
-  "sha256": "4ca956150bd788f609f28db8fd7b7a1a9fa5021e70914a233303dde75dc1a621"
+  "url": "nera_pc_v52.zip",
+  "sha256": "4085a6b2ef39c09ca8eadcf4ff5eb295c4a425690f2daa76874b8bb8bb878303"
  },
  "mobil": {
-  "url": "nera_mobil_v51.zip",
-  "sha256": "e7a0fdab08b676c4ac78f78cd9b91f2c37b748c6339617a7b7942e80581bc54d"
+  "url": "nera_mobil_v52.zip",
+  "sha256": "b5c2832ee9363332e2e7e7a4db236c8378dd9762ac716665ac83373a09200f55"
  }
 }

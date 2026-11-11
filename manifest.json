@@ -1,12 +1,12 @@
 {
- "v": 54,
- "notes": "NeraFlow: Flowsurface ayarları",
+ "v": 55,
+ "notes": "NERA 2: yeni tasarım",
  "pc": {
-  "url": "nera_pc_v54.zip",
-  "sha256": "48730a70ab52bed6e9e879ac2b90fbe3a0fb0514bc3e3df10a63030c7f6461a4"
+  "url": "nera_pc_v55.zip",
+  "sha256": "8a9139cea265198aebf7794d40d747cdce93587da24fe754c842d0ec5b1c1576"
  },
  "mobil": {
-  "url": "nera_mobil_v54.zip",
-  "sha256": "00963eaeb7f297b4256865b36a95f176a7bace0a016735235960cbe505f06025"
+  "url": "nera_mobil_v55.zip",
+  "sha256": "6e0734cf933e10c68307590eaa7203218ee0317fd5ff2c3d7651aab234d27d02"
  }
 }

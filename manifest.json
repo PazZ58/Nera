@@ -1,12 +1,12 @@
 {
- "v": 52,
- "notes": "Martingale / Grid (demo)",
+ "v": 53,
+ "notes": "NeraFlow",
  "pc": {
-  "url": "nera_pc_v52.zip",
-  "sha256": "4085a6b2ef39c09ca8eadcf4ff5eb295c4a425690f2daa76874b8bb8bb878303"
+  "url": "nera_pc_v53.zip",
+  "sha256": "a1eed855710657692c48e5bf671e3ba25af8a369e1addb132b9404de4519b177"
  },
  "mobil": {
-  "url": "nera_mobil_v52.zip",
-  "sha256": "b5c2832ee9363332e2e7e7a4db236c8378dd9762ac716665ac83373a09200f55"
+  "url": "nera_mobil_v53.zip",
+  "sha256": "ab80ddc93b060a67300bda7eec3e6767f1552c9ce1a70bfcdc09c75226d69b91"
  }
 }

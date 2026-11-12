@@ -1,12 +1,12 @@
 {
- "v": 56,
- "notes": "NERA 3: baştan yeni görünüm: Görünüm baştan yazıldı: siyah zemin, ince çizgiler, serif italik rakamlar, tek kireç vurgu; Yeni açılış: parçacıklardan oluşan 'Nera' yazısı küreye dönüşür; Beyin ve NeraFlow tek GPU sahnesinde: parçacık çekirdek, sarmal galaksi bulutu (alış/satış payı, işlem hızı ve büyük işlemlere tepki verir)",
+ "v": 57,
+ "notes": "NERA 3: Aurora: Yeni tema: Aurora (mor-camgöbeği-pembe), Space Grotesk + Inter + JetBrains Mono yazı tipleri, cam paneller; Sol menüde sayılar yerine animasyonlu ikonlar; Nera logosu geri geldi; Açılış her başlatmada oynar (atlama yok); telefonda hafif sürüm",
  "pc": {
-  "url": "nera_pc_v56.zip",
-  "sha256": "aae4debf304dcd069dbf2ac39a0ffde46dc4ec8b7d2e9f54112109324e631dc2"
+  "url": "nera_pc_v57.zip",
+  "sha256": "b7cf676424e5ffbbd89567190aa1b92eb90c2efca06a245f7cff79ebaf85c168"
  },
  "mobil": {
-  "url": "nera_mobil_v56.zip",
-  "sha256": "0485266e97267db5874081dfea27d6b5cd24bc6545af9dc8d448cd85fa2a3066"
+  "url": "nera_mobil_v57.zip",
+  "sha256": "ca9962e43fbbb8fc01f3f4013bae6cda827b447ceab3331ead605c9d441ec64d"
  }
 }

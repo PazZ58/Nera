@@ -1,12 +1,12 @@
 {
- "v": 60,
- "notes": "Performans modu seçeneği: Ayarlar'a Performans modu eklendi: seçilirse uygulama yeniden açılınca açılış animasyonu dışındaki animasyonlar kapanır",
+ "v": 61,
+ "notes": "Açılış telefona uyarlandı: Telefonda açılış: noktalar Nera yazısına toplanır; masaüstü açılışı biraz yavaşladı",
  "pc": {
-  "url": "nera_pc_v60.zip",
-  "sha256": "02d99081d9643e93fa3f233401ef9c61df708c7803ed1cc5e827c1b5197f96d5"
+  "url": "nera_pc_v61.zip",
+  "sha256": "6c901bf57a7b179453e1b4b416261fd08c8a77fa38bb9db0852e04971cc249ca"
  },
  "mobil": {
-  "url": "nera_mobil_v60.zip",
-  "sha256": "8feb0dd5add07ae1c807a370ad62a3234939d79da6639ab525a2113d5d73e63e"
+  "url": "nera_mobil_v61.zip",
+  "sha256": "24469d7794eb85a59812c532ba5b0e0b76ac7cc3e325a6bd96ef12c2ff28aff1"
  }
 }

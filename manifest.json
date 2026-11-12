@@ -1,12 +1,12 @@
 {
- "v": 61,
- "notes": "Açılış telefona uyarlandı: Telefonda açılış: noktalar Nera yazısına toplanır; masaüstü açılışı biraz yavaşladı",
+ "v": 62,
+ "notes": "Grafik özelleştirme: Ayarlar › Grafik arka planı: kendi GIF/resmini ana fiyat grafiğinin arkasına koy (saydamlık ve bulanıklık ayarlı; yalnız bilgisayar ve tablet); Ayarlar › Grafik görünümü: mum renkleri (5 hazır takım + özel), dolu/içi boş mum, ızgara ve hacim anahtarları; Delta/CVD ve ADX alt panelleri başlıktaki okla animasyonlu gizlenir ve açılır",
  "pc": {
-  "url": "nera_pc_v61.zip",
-  "sha256": "6c901bf57a7b179453e1b4b416261fd08c8a77fa38bb9db0852e04971cc249ca"
+  "url": "nera_pc_v62.zip",
+  "sha256": "cb9c8380468f2c6ff13d3c7f34dc5e4587f7bbba479b4b269084c774c3588b4b"
  },
  "mobil": {
-  "url": "nera_mobil_v61.zip",
-  "sha256": "24469d7794eb85a59812c532ba5b0e0b76ac7cc3e325a6bd96ef12c2ff28aff1"
+  "url": "nera_mobil_v62.zip",
+  "sha256": "40044ec6cbb15d822230b6753cbdef7ff7837f7ba183d3aa78b97392c6a71f79"
  }
 }

@@ -1,12 +1,12 @@
 {
- "v": 58,
- "notes": "NERA 3: Yeni dil: Yazı tipleri: Sora + DM Sans + IBM Plex Mono; canlı Nera logosu (nefes alan küre, mini sinir ağı, dönen halka); Açılış eski sürüme döndü (nokta nokta Nera yazısı); uygulama her açılışta Beyin'de başlar; Yeni imleç efekti: parlayan şerit ve yıldız tozu, tıklayınca patlama",
+ "v": 59,
+ "notes": "Telefon: performans kipi: Telefonda yalnızca açılış animasyonu var; geri kalan animasyon, geçiş ve ışıma efektleri kapalı",
  "pc": {
-  "url": "nera_pc_v58.zip",
-  "sha256": "c6a77f1e1b330cdcbc7c561ba17d55ceb9cfad0087743988975debf458880e6e"
+  "url": "nera_pc_v59.zip",
+  "sha256": "9853b61fcd39296ceac79b5ec5fa66c2755e921789dd9bd95aef6b6dc478bcf4"
  },
  "mobil": {
-  "url": "nera_mobil_v58.zip",
-  "sha256": "f957c702eb5690b091029be76bf28c089199e759f744275ba0dfefbbedb7cefd"
+  "url": "nera_mobil_v59.zip",
+  "sha256": "a7d895a3da695cede9eabe38b99d9379d18474aea7825315ee90bd4f79ff8894"
  }
 }

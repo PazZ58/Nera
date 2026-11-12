@@ -1,12 +1,12 @@
 {
- "v": 57,
- "notes": "NERA 3: Aurora: Yeni tema: Aurora (mor-camgöbeği-pembe), Space Grotesk + Inter + JetBrains Mono yazı tipleri, cam paneller; Sol menüde sayılar yerine animasyonlu ikonlar; Nera logosu geri geldi; Açılış her başlatmada oynar (atlama yok); telefonda hafif sürüm",
+ "v": 58,
+ "notes": "NERA 3: Yeni dil: Yazı tipleri: Sora + DM Sans + IBM Plex Mono; canlı Nera logosu (nefes alan küre, mini sinir ağı, dönen halka); Açılış eski sürüme döndü (nokta nokta Nera yazısı); uygulama her açılışta Beyin'de başlar; Yeni imleç efekti: parlayan şerit ve yıldız tozu, tıklayınca patlama",
  "pc": {
-  "url": "nera_pc_v57.zip",
-  "sha256": "b7cf676424e5ffbbd89567190aa1b92eb90c2efca06a245f7cff79ebaf85c168"
+  "url": "nera_pc_v58.zip",
+  "sha256": "c6a77f1e1b330cdcbc7c561ba17d55ceb9cfad0087743988975debf458880e6e"
  },
  "mobil": {
-  "url": "nera_mobil_v57.zip",
-  "sha256": "ca9962e43fbbb8fc01f3f4013bae6cda827b447ceab3331ead605c9d441ec64d"
+  "url": "nera_mobil_v58.zip",
+  "sha256": "f957c702eb5690b091029be76bf28c089199e759f744275ba0dfefbbedb7cefd"
  }
 }

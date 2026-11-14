@@ -1,12 +1,12 @@
 {
- "v": 62,
- "notes": "Grafik özelleştirme: Ayarlar › Grafik arka planı: kendi GIF/resmini ana fiyat grafiğinin arkasına koy (saydamlık ve bulanıklık ayarlı; yalnız bilgisayar ve tablet); Ayarlar › Grafik görünümü: mum renkleri (5 hazır takım + özel), dolu/içi boş mum, ızgara ve hacim anahtarları; Delta/CVD ve ADX alt panelleri başlıktaki okla animasyonlu gizlenir ve açılır",
+ "v": 63,
+ "notes": "Nera Asistan: Nera Asistan: sağ altta, Nera yıldızı animasyonlu sesli asistan. Ctrl+Boşluk ile konuş ya da yaz: \"altın raporu\", \"bitcoin nereye gider?\", \"karnen nasıl?\"; Asistana basınca ekranın ortasına dönerek süzülür, arka plan bulanıklaşır; mesaj balonları kelime kelime belirir, yazarken üç noktalı balon çıkar; kapatınca (Esc, ✕ ya da dışarı tıkla) aynı yoldan küçülüp köşedeki yerine döner; Ayarlar › Asistan › ElevenLabs anahtarı: anahtarı yapıştır, \"Kaydet ve dene\" ile hemen doğru çalıştığını duy (ortam değişkenine gerek yok; yeni exe gerekir)",
  "pc": {
-  "url": "nera_pc_v62.zip",
-  "sha256": "cb9c8380468f2c6ff13d3c7f34dc5e4587f7bbba479b4b269084c774c3588b4b"
+  "url": "nera_pc_v63.zip",
+  "sha256": "4a3c51d02b64ec100eb8ac92a9f9bb77fa255b42135ddda664b09b3635b518f2"
  },
  "mobil": {
-  "url": "nera_mobil_v62.zip",
-  "sha256": "40044ec6cbb15d822230b6753cbdef7ff7837f7ba183d3aa78b97392c6a71f79"
+  "url": "nera_mobil_v63.zip",
+  "sha256": "a2fb235cb516413c196121cc8722060d4aceb026a2cf163e483c3f188eac3dfc"
  }
 }

@@ -1,12 +1,12 @@
 {
  "v": 64,
- "notes": "İyileştirmeler ve düzeltmeler.",
+ "notes": "XM Nera: dolar zarar sınırı: XM Nera ayarlarına Dolar zarar sınırı ($) eklendi: stop bu zarara göre konur, açık zarar sınıra ulaşınca işlem kapanır (0 = kapalı). Bu özellik yeni masaüstü exe'si ister, eski exe ayarı yok sayar",
  "pc": {
   "url": "nera_pc_v64.zip",
-  "sha256": "08bd7ef0f40761410f68c03f375de317022c157a4914a2ec7ee637320b038131"
+  "sha256": "8dd1d1d66ad90ef303a02c5078fb959a4ada8ad6c1c309733d0a4b0a813e918f"
  },
  "mobil": {
   "url": "nera_mobil_v64.zip",
-  "sha256": "e9a91e1a97b9276d239cc766ec247d46a4c0f6d2bfa6d200310f6abd8ca3896e"
+  "sha256": "836242d43b5e0126061a0009b62b272a9f593c44713b5634c24ff31992af83aa"
  }
 }

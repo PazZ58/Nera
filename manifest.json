@@ -1,12 +1,12 @@
 {
- "v": 65,
- "notes": "Grafik geçmişi ve sağlamlık: Piyasa ve XM Nera grafiği 2000 mum gösterir (eskiden 500); veri geçmişi 3000-4000 muma çıktı (telefonda 1000)",
+ "v": 66,
+ "notes": "Geri alma: yalnız mum geçmişi kalır: Piyasa ve XM Nera grafiği 2000 mum gösterir (eskiden 500); veri geçmişi 3000-4000 muma çıktı",
  "pc": {
-  "url": "nera_pc_v65.zip",
-  "sha256": "b39de111f2e95c364af1da17fe0521756435bdf1a1723b3c33dac861c78314e0"
+  "url": "nera_pc_v66.zip",
+  "sha256": "4441bf865a8834709b1fdb1cd8b985157b1ecb0c341f5d038bdad9ee7948851c"
  },
  "mobil": {
-  "url": "nera_mobil_v65.zip",
-  "sha256": "d71364ace451d7c095730289dbd683b517ef032bf004b1c4d09317ca80e60b16"
+  "url": "nera_mobil_v66.zip",
+  "sha256": "c19a273b9ea91170478c385dbaadf4d9547b079516aa03bb329cf15acc0fb2b3"
  }
 }
